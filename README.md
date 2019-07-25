@@ -19,5 +19,5 @@ $ nodemon
 ```
 
 <br>
-A new folder will be created called "release-builds", continue in that folder until you find the application with the shopping cart icon 
+Open localhost:3000 to view the app
 

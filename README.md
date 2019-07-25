@@ -7,6 +7,7 @@ Learned how to use Redis through creating a basic task manager.
 <br><br>
 2. Move into the redistasklist folder, in this folder, perform the following instructions from the command line
 <br><br>
+
 Download dependencies
 ```sh
 $ npm install
